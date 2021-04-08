@@ -736,9 +736,9 @@ section .img:hover ul {
 
 /* Media quari */
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .container {
-        width: 100%;
+        /* width: 100%; */
     }
 
    
